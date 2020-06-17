@@ -1,0 +1,64 @@
+﻿  Source.cpp
+C:\EDUCATION\ALGEBRA\2. semestar\Strukture podataka i algoritmi\Projekt MI2\ProjektniZadatakIMDB\IMDB\IMDB\Movie.h(2,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\EDUCATION\ALGEBRA\2. semestar\Strukture podataka i algoritmi\Projekt MI2\ProjektniZadatakIMDB\IMDB\IMDB\Source.cpp(4,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\EDUCATION\ALGEBRA\2. semestar\Strukture podataka i algoritmi\Projekt MI2\ProjektniZadatakIMDB\IMDB\IMDB\Source.cpp(180,15): warning C4244: 'initializing': conversion from '_Rep' to 'double', possible loss of data
+          with
+          [
+              _Rep=__int64
+          ]
+C:\EDUCATION\ALGEBRA\2. semestar\Strukture podataka i algoritmi\Projekt MI2\ProjektniZadatakIMDB\IMDB\IMDB\Source.cpp(186,15): warning C4244: 'initializing': conversion from '_Rep' to 'double', possible loss of data
+          with
+          [
+              _Rep=__int64
+          ]
+C:\EDUCATION\ALGEBRA\2. semestar\Strukture podataka i algoritmi\Projekt MI2\ProjektniZadatakIMDB\IMDB\IMDB\Source.cpp(192,15): warning C4244: 'initializing': conversion from '_Rep' to 'double', possible loss of data
+          with
+          [
+              _Rep=__int64
+          ]
+C:\EDUCATION\ALGEBRA\2. semestar\Strukture podataka i algoritmi\Projekt MI2\ProjektniZadatakIMDB\IMDB\IMDB\Source.cpp(199,20): warning C4018: '<': signed/unsigned mismatch
+C:\EDUCATION\ALGEBRA\2. semestar\Strukture podataka i algoritmi\Projekt MI2\ProjektniZadatakIMDB\IMDB\IMDB\Source.cpp(239,20): warning C4018: '<': signed/unsigned mismatch
+C:\EDUCATION\ALGEBRA\2. semestar\Strukture podataka i algoritmi\Projekt MI2\ProjektniZadatakIMDB\IMDB\IMDB\Source.cpp(241,25): warning C4018: '<': signed/unsigned mismatch
+C:\EDUCATION\ALGEBRA\2. semestar\Strukture podataka i algoritmi\Projekt MI2\ProjektniZadatakIMDB\IMDB\IMDB\Source.cpp(259,20): warning C4018: '<': signed/unsigned mismatch
+C:\EDUCATION\ALGEBRA\2. semestar\Strukture podataka i algoritmi\Projekt MI2\ProjektniZadatakIMDB\IMDB\IMDB\Source.cpp(274,20): warning C4018: '<': signed/unsigned mismatch
+C:\EDUCATION\ALGEBRA\2. semestar\Strukture podataka i algoritmi\Projekt MI2\ProjektniZadatakIMDB\IMDB\IMDB\Source.cpp(276,25): warning C4018: '<': signed/unsigned mismatch
+C:\EDUCATION\ALGEBRA\2. semestar\Strukture podataka i algoritmi\Projekt MI2\ProjektniZadatakIMDB\IMDB\IMDB\Source.cpp(292,20): warning C4018: '<': signed/unsigned mismatch
+C:\EDUCATION\ALGEBRA\2. semestar\Strukture podataka i algoritmi\Projekt MI2\ProjektniZadatakIMDB\IMDB\IMDB\Source.cpp(340,25): warning C4018: '<': signed/unsigned mismatch
+C:\EDUCATION\ALGEBRA\2. semestar\Strukture podataka i algoritmi\Projekt MI2\ProjektniZadatakIMDB\IMDB\IMDB\Source.cpp(444,15): warning C4244: 'initializing': conversion from '_Rep' to 'double', possible loss of data
+          with
+          [
+              _Rep=__int64
+          ]
+C:\EDUCATION\ALGEBRA\2. semestar\Strukture podataka i algoritmi\Projekt MI2\ProjektniZadatakIMDB\IMDB\IMDB\Source.cpp(450,15): warning C4244: 'initializing': conversion from '_Rep' to 'double', possible loss of data
+          with
+          [
+              _Rep=__int64
+          ]
+C:\EDUCATION\ALGEBRA\2. semestar\Strukture podataka i algoritmi\Projekt MI2\ProjektniZadatakIMDB\IMDB\IMDB\Source.cpp(456,15): warning C4244: 'initializing': conversion from '_Rep' to 'double', possible loss of data
+          with
+          [
+              _Rep=__int64
+          ]
+C:\EDUCATION\ALGEBRA\2. semestar\Strukture podataka i algoritmi\Projekt MI2\ProjektniZadatakIMDB\IMDB\IMDB\Source.cpp(463,20): warning C4018: '<': signed/unsigned mismatch
+C:\EDUCATION\ALGEBRA\2. semestar\Strukture podataka i algoritmi\Projekt MI2\ProjektniZadatakIMDB\IMDB\IMDB\Source.cpp(582,14): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\EDUCATION\ALGEBRA\2. semestar\Strukture podataka i algoritmi\Projekt MI2\ProjektniZadatakIMDB\IMDB\IMDB\Source.cpp(588,25): warning C4018: '<': signed/unsigned mismatch
+C:\EDUCATION\ALGEBRA\2. semestar\Strukture podataka i algoritmi\Projekt MI2\ProjektniZadatakIMDB\IMDB\IMDB\Source.cpp(596,17): warning C4834: discarding return value of function with 'nodiscard' attribute
+C:\EDUCATION\ALGEBRA\2. semestar\Strukture podataka i algoritmi\Projekt MI2\ProjektniZadatakIMDB\IMDB\IMDB\Source.cpp(644,30): warning C4018: '<': signed/unsigned mismatch
+C:\SOFTWARE ENGINEERING\Microsoft Visual Studio\2019\Communitiy\VC\Tools\MSVC\14.26.28801\include\xmemory(671,103): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\SOFTWARE ENGINEERING\Microsoft Visual Studio\2019\Communitiy\VC\Tools\MSVC\14.26.28801\include\vector(682): message : see reference to function template instantiation 'void std::_Default_allocator_traits<_Alloc>::construct<_Ty,int&,std::string&,std::string&,std::string&,std::string&,std::string&,int&,int&,double&,int&,double&,int&>(_Alloc &,_Objty *const ,int &,std::string &,std::string &,std::string &,std::string &,std::string &,int &,int &,double &,int &,double &,int &)' being compiled
+          with
+          [
+              _Alloc=std::allocator<Movie>,
+              _Ty=Movie,
+              _Objty=Movie
+          ]
+C:\SOFTWARE ENGINEERING\Microsoft Visual Studio\2019\Communitiy\VC\Tools\MSVC\14.26.28801\include\vector(687): message : see reference to function template instantiation 'void std::_Default_allocator_traits<_Alloc>::construct<_Ty,int&,std::string&,std::string&,std::string&,std::string&,std::string&,int&,int&,double&,int&,double&,int&>(_Alloc &,_Objty *const ,int &,std::string &,std::string &,std::string &,std::string &,std::string &,int &,int &,double &,int &,double &,int &)' being compiled
+          with
+          [
+              _Alloc=std::allocator<Movie>,
+              _Ty=Movie,
+              _Objty=Movie
+          ]
+C:\SOFTWARE ENGINEERING\Microsoft Visual Studio\2019\Communitiy\VC\Tools\MSVC\14.26.28801\include\vector(700): message : see reference to function template instantiation 'void std::vector<Movie,std::allocator<Movie>>::_Emplace_back_with_unused_capacity<int&,std::string&,std::string&,std::string&,std::string&,std::string&,int&,int&,double&,int&,double&,int&>(int &,std::string &,std::string &,std::string &,std::string &,std::string &,int &,int &,double &,int &,double &,int &)' being compiled
+C:\EDUCATION\ALGEBRA\2. semestar\Strukture podataka i algoritmi\Projekt MI2\ProjektniZadatakIMDB\IMDB\IMDB\Source.cpp(102): message : see reference to function template instantiation 'void std::vector<Movie,std::allocator<Movie>>::emplace_back<int&,std::string&,std::string&,std::string&,std::string&,std::string&,int&,int&,double&,int&,double&,int&>(int &,std::string &,std::string &,std::string &,std::string &,std::string &,int &,int &,double &,int &,double &,int &)' being compiled
+  IMDB.vcxproj -> C:\EDUCATION\ALGEBRA\2. semestar\Strukture podataka i algoritmi\Projekt MI2\ProjektniZadatakIMDB\IMDB\Debug\IMDB.exe
